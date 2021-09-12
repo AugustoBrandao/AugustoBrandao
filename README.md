@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**AugustoBrandao/AugustoBrandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Augusto Brandão 👋
+##### Paulista, 22 anos, apaixonado por tecnologia e estudante de Sistemas de Infomação na Faculdade de Informática e Administração Paulista (FIAP).
+ <div>
+  <a href="https://github.com/AugustoBrandao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoBrandao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoBrandao&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Guto-Csharp" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Guto-Js" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Guto-HTML" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Guto-CSS" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Guto-Python" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div></br></br>
+  
+  
+<div> 
+   <a href="https://www.linkedin.com/in/augusto-brand%C3%A3o-901866186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://api.whatsapp.com/send?phone=5511973274254&text=Ol%C3%A1!%20Vamos%20conversar%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D336?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/augusto._.brandao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+</div>
