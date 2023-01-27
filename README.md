@@ -1,5 +1,5 @@
 ### Augusto Brandão 👋
-##### Paulista, 22 anos, apaixonado por tecnologia e estudante de Desenvolvimento Full-Stack na Faculdade de Informática e Administração Paulista (FIAP).
+##### Paulista, 24 anos, apaixonado por tecnologia e estudante de Desenvolvimento Full-Stack na Faculdade de Informática e Administração Paulista (FIAP).
 
 <div> 
    <a href="https://www.linkedin.com/in/augusto-brand%C3%A3o-901866186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
