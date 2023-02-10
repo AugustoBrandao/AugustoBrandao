@@ -9,7 +9,7 @@
  <div>
   <a href="https://github.com/AugustoBrandao">
   <img height="250em" width="400em" src="https://github-readme-stats.vercel.app/api?username=AugustoBrandao&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="260em" width="400em" style="margin-top:-100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoBrandao&layout=compact&langs_count=7&theme=light"/>
+  <img height="260em" width="410em" style="margin-top:-100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoBrandao&layout=compact&langs_count=7&theme=light"/>
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Guto-HTML" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
