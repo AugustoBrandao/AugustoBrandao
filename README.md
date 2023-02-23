@@ -17,6 +17,7 @@
   <img align="center" alt="Guto-Js" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Guto-Csharp" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Guto-React" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+        <img align="center" alt="Guto-Python" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-original.svg">
     <img align="center" alt="Guto-Python" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div></br></br>
